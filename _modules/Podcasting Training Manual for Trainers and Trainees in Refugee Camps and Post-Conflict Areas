@@ -1,0 +1,17 @@
+---
+module:
+    name: 'Podcasting Training Manual for Trainers and Trainees in Refugee Camps and Post-Conflict Areas
+'
+    id: 'podcasting_training_manual'      #can only contain small letters, numbers, minus and underscore. needs to be the same as the file name
+    url: 'https://github.com/romeoplat/Podcasting-Manual/blob/main/README.md'     #url that is linked in the table view, can be empty
+    tag: 'Web Open_Source'     #list, just separated by blank space, e.g. 'Web Open_Source'
+    description: "This training manual is designed to provide trainers and trainees in refugee camps and post-conflict areas in Uganda with the necessary guidance and resources to learn and excel in podcasting and audio storytelling. "
+    pic-url: opentech.jpg
+    duration: 5 #put to 0, introduction time in minutes no function currently, the resources have their own time blocks
+    max-participants: 10
+    min-trainers: 1
+    difficulty: 1   #1-3, 1 is easyest
+    license: '[CC-BY-SA 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/)'
+    res: [' https://transom.org/','https://training.npr.org/','https://howtostartapodcast.org/']       #IDs of the resources. e.g. ['askotec'], or if more: ['askotec', 'ohg']
+    # marker
+---  
